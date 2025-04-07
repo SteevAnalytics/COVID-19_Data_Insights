@@ -50,10 +50,7 @@ The report consists of 2 pages
 - Stakeholders and health organizations should examine strategies used in **Australia/Oceania** to replicate successful recovery approaches in regions with lower recovery margins.
 - Support is needed in **Asia and Africa** to enhance healthcare infrastructure, data accuracy, and access to treatment.
 - These insights can inform **public health policies, NGO campaigns**, and investment decisions targeting pandemic response and recovery efforts.
-
 - Global death margin: **0.99%**
-![COVID-19 Dashboard](Covid_19_page_1.png)
-![COVID-19 Dashboard](Covid_19_page_2.png)
 
 ## 📂 Files Included
 
