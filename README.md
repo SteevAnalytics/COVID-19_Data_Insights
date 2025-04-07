@@ -34,10 +34,6 @@ The report consists of 2 pages
 - page 1 ![page 1](Covid_19_page_1.png)
 - page 2 ![page 2](Covid_19_page_2.png)
 
-## Insights and Recommendations
-Key Insights
-Awesome! Here’s a clean and well-structured version you can copy directly into your `README.md` file on GitHub for your **COVID-19 Data Insights** project:
-
 ---
 
 ## 🔍 Insights and Recommendations
