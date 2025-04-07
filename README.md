@@ -14,7 +14,7 @@ I analyzed historical global COVID-19 data sourced from Worldometer. The dashboa
 The goal of this project is to provide a data-driven overview of how COVID-19 affected different continents and countries. The dashboard enables users to explore data interactively and draw useful insights for research and decision-making.
 
 ## Data Sources
-- [Worldometer COVID-19 Tracker](https://www.worldometers.info/coronavirus/)
+-  Historical global COVID-19 data sourced from [Worldometer COVID-19 Tracker](https://www.worldometers.info/coronavirus/)
 
 ## Skills & Concepts Demonstrated
 PowerBI concepts like:
@@ -23,22 +23,39 @@ PowerBI concepts like:
 - Developing general DAX calculations that deal with text and numbers
 - Data Modelling
 - Data Cleaning
-- Merge
 - Measures
 - Filters
 - Tooltips
 - Buttons
 - Creating columns
 
+## Data Visualization
+The report consists of 2 pages
+- page 1 ![page 1](Covid_19_page_1.png)
+- page 2 ![page 2](Covid_19_page_2.png)
 
 ## Insights and Recommendations
+Key Insights
+Awesome! Here’s a clean and well-structured version you can copy directly into your `README.md` file on GitHub for your **COVID-19 Data Insights** project:
+
+---
+
+## 🔍 Insights and Recommendations
+
+### **Key Insights**
+- **Global Death Margin**: 0.99%  
+- **Global Recovery Margin**: 79.54%  
+- The **USA, India, and Brazil** reported the highest confirmed case and death counts.  
+- **Asia**, despite being the most populous continent, recorded a **low recovery margin of 48.99%**.  
+- **Australia/Oceania** recorded the **highest recovery margin of 98.12%**, indicating highly effective health strategies.  
+- **Africa** recorded a **recovery margin of 71.62%**, reflecting moderate recovery effectiveness.
+
+### **Recommendations**
+- Stakeholders and health organizations should examine strategies used in **Australia/Oceania** to replicate successful recovery approaches in regions with lower recovery margins.
+- Support is needed in **Asia and Africa** to enhance healthcare infrastructure, data accuracy, and access to treatment.
+- These insights can inform **public health policies, NGO campaigns**, and investment decisions targeting pandemic response and recovery efforts.
+
 - Global death margin: **0.99%**
-- Global recovery margin: **79.54%**
-- USA, India, and Brazil had the highest case and death counts.
-- Asia accounts for the highest population, influencing case volume.
-
-## Dashboard Preview
-
 ![COVID-19 Dashboard](Covid_19_page_1.png)
 ![COVID-19 Dashboard](Covid_19_page_2.png)
 
