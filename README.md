@@ -5,18 +5,18 @@ In this project, I analyzed historical global COVID-19 data sourced from Worldom
 (The Covid-19 picture above is downloaded from google)
 
 
-# Introduction
+# 📘 Introduction
 
 This is a COVID-19 analysis done with Power BI.  
 I analyzed historical global COVID-19 data sourced from Worldometer. The dashboard provides an interactive and comprehensive visualization of global metrics such as total population, affected countries, confirmed cases, total deaths, and recoveries.
 
-## Problem Solving
+## 🧠 Problem Solving
 The goal of this project is to provide a data-driven overview of how COVID-19 affected different continents and countries. The dashboard enables users to explore data interactively and draw useful insights for research and decision-making.
 
-## Data Sources
+## 🌐 Data Sources
 -  Historical global COVID-19 data sourced from [Worldometer COVID-19 Tracker](https://www.worldometers.info/coronavirus/)
 
-## Skills & Concepts Demonstrated
+## 🛠️ Skills & Concepts Demonstrated
 PowerBI concepts like:
 - Data Visualization (Maps, Bar Charts, KPIs, Table view)
 - Report Design in Power BI
@@ -29,7 +29,7 @@ PowerBI concepts like:
 - Buttons
 - Creating columns
 
-## Data Visualization
+## 📊  Data Visualization
 The report consists of 2 pages
 - page 1 ![page 1](Covid_19_page_1.png)
 - page 2 ![page 2](Covid_19_page_2.png)
@@ -60,7 +60,7 @@ The report consists of 2 pages
 
 
 
-## Disclaimer  
+## ⚠️ Disclaimer  
 **COVID-19 Coronavirus Pandemic**  
 **Last updated: April 13, 2024, 01:00 GMT**  
 
