@@ -1,3 +1,5 @@
+DEAR STEVEN, THIS IS A GOOD JOB!
+
 ## COVID-19_Data_Insights
 
 In this project, I analyzed historical global COVID-19 data sourced from Worldometer. The dashboard offers a clear and interactive overview of key metrics, including confirmed cases, death margins, and recovery margins. It provides insights into the pandemic's impact over time, helping users better understand global trends and health outcomes. 
